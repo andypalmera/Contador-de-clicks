@@ -7,7 +7,7 @@ const Header = () => {
                 <div className="row m-auto">
                     <i className="fa fa-hand-pointer-o fa-4x text-white" />
                     <div className="h1 ml-2 my-auto text-light" href="/">
-                        Contador de clicks
+                        React Clock
                     </div>
                 </div>
             </div>

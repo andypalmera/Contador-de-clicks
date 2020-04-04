@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './components/Header/Header';
-import Clickers from './components/Clickers/Clickers';
+import Timer from './components/Timer/Timer';
 
 class App extends React.Component {
     render() {
@@ -11,7 +11,7 @@ class App extends React.Component {
                     <Header />
                     {/* ===== */}
                     <div className="mt-5">
-                        <Clickers />
+                        <Timer />
                     </div>
                 </div>
             </div>
